@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-invoice-generator/static/css/main.f5b90593.chunk.css",
+    "main.js": "/react-invoice-generator/static/js/main.2fef17a7.chunk.js",
+    "main.js.map": "/react-invoice-generator/static/js/main.2fef17a7.chunk.js.map",
+    "runtime-main.js": "/react-invoice-generator/static/js/runtime-main.33c79cdc.js",
+    "runtime-main.js.map": "/react-invoice-generator/static/js/runtime-main.33c79cdc.js.map",
+    "static/css/2.903596ff.chunk.css": "/react-invoice-generator/static/css/2.903596ff.chunk.css",
+    "static/js/2.d8b0e08e.chunk.js": "/react-invoice-generator/static/js/2.d8b0e08e.chunk.js",
+    "static/js/2.d8b0e08e.chunk.js.map": "/react-invoice-generator/static/js/2.d8b0e08e.chunk.js.map",
+    "index.html": "/react-invoice-generator/index.html",
+    "precache-manifest.d0ccd7b7d87d01bb7ecceda3771db645.js": "/react-invoice-generator/precache-manifest.d0ccd7b7d87d01bb7ecceda3771db645.js",
+    "service-worker.js": "/react-invoice-generator/service-worker.js",
+    "static/css/2.903596ff.chunk.css.map": "/react-invoice-generator/static/css/2.903596ff.chunk.css.map",
+    "static/css/main.f5b90593.chunk.css.map": "/react-invoice-generator/static/css/main.f5b90593.chunk.css.map",
+    "static/js/2.d8b0e08e.chunk.js.LICENSE.txt": "/react-invoice-generator/static/js/2.d8b0e08e.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/react-invoice-generator/static/media/Shamel-book.c398871b.ttf",
+    "static/media/footer.jpeg": "/react-invoice-generator/static/media/footer.a610f9cd.jpeg",
+    "static/media/header.jpeg": "/react-invoice-generator/static/media/header.a4f41eff.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33c79cdc.js",
+    "static/css/2.903596ff.chunk.css",
+    "static/js/2.d8b0e08e.chunk.js",
+    "static/css/main.f5b90593.chunk.css",
+    "static/js/main.2fef17a7.chunk.js"
+  ]
+}
